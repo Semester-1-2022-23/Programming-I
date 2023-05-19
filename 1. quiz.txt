@@ -1,0 +1,10 @@
+(Computer) programs communicate in programming languages (PL), people communicate in natural languages. Try to translate these concepts from the computer world in the "human" world?
+a) programming
+b) program
+c) PL syntax
+Can you think of any other word from the computer world and its "duplicate" in the "human" world?
+
+a) programming - ordering
+b) program - orders
+c) PL syntax - real language syntax
+d) programming language - natural language 

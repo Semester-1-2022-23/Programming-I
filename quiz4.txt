@@ -1,0 +1,12 @@
+Quiz 4
+
+Recursion in programming is when a function calls itself in order to solve a problem. 
+It is a powerful concept that can make code more elegant and efficient, but it can also lead to confusion and bugs if not used carefully. 
+In my personal experience, recursion is best used in situations where a problem can be broken down into smaller subproblems that are similar to the original problem. 
+For example, recursion is commonly used for traversing tree or graph data structures. 
+When using recursion, it is important to have a clear stopping condition, or "base case", to prevent infinite loops. 
+Additionally, it is important to carefully consider the computational complexity of the recursive solution, as some problems may be more efficiently solved using an iterative approach.
+I believe that recursion can be a valuable tool in a programmer's toolbox, but it should be used judiciously and with a clear understanding of its potential drawbacks.
+
+Student ID: 89221055
+Student: Anastasija Temova
